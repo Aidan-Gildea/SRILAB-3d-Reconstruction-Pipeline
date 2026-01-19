@@ -111,8 +111,5 @@ Sample files are provided in the `example/` directory:
 
 ---
 
-## Extra Resources
-
-- [Polycam Documentation](https://poly.cam/docs)
-- [NVIDIA Isaac Sim Documentation](https://docs.omniverse.nvidia.com/isaacsim/latest/index.html)
-- [Isaac Sim Physics API Guide](https://docs.omniverse.nvidia.com/isaacsim/latest/tutorials/physics/physics_api.html)
+## Final Note
+This guide provides a simplified workflow for integrating real-world scans into Isaac Sim. For a more advanced implementation utilizing the colmap -> 3dgrut -> IsaacSim pipline, refer [here](https://developer.nvidia.com/blog/reconstruct-a-scene-in-nvidia-isaac-sim-using-only-a-smartphone/?ncid=so-link-160265&es_id=819cb0cc7b)  
