@@ -58,19 +58,18 @@ Navigate to the export options. Export your scan in **GLTF** or **GLB** format, 
 
 ## Part 2: Isaac Sim - Importing and Interacting
 
-### Step 7: Launch Isaac Sim
+### Step 6: Launch Isaac Sim
 
 Open NVIDIA Isaac Sim on your workstation. Create a new stage or open an existing project.
 
-### Step 8: Import the 3D Model & Setting Up the Scene
-
+### Step 7: Import the 3D Model & Setting Up the Scene
 Navigate to **File > Import** or use the Content Browser to locate your exported GLTF/GLB file. Import it into your scene. Then, adjust the position, rotation, and scale of your imported model to fit your simulation requirements. Use the transform tools to move around your object in the viewport.
 
 
 ![Isaac Sim - Importing model](media/isaac/isaac2.png)
 
 
-### Step 10: Configure Physics and Collisions
+### Step 8: Configure Physics and Collisions
 
 Now, you will add a collision mesh to enable your object to interact with robots and other simulated objects. 
 
@@ -80,7 +79,7 @@ First, navigate to **Tools > Physics** and select **Physics API Editor**. Now, i
 
 ![Isaac Sim - Physics configuration](media/isaac/isaac4.png)
 
-### Step 11: Interact with the Reconstructed Scene
+### Step 9: Interact with the Reconstructed Scene
 
 Your scene is now ready for simulation! You can add robots, run physics simulations, and interact with the reconstructed environment.
 
