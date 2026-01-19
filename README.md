@@ -96,8 +96,8 @@ Sample files are provided in the `example/` directory:
 
 | File | Description |
 |------|-------------|
-| `polycam_example.gltf` | Example GLTF export from Polycam |
-| `sample_scan.glb` | Sample GLB scan ready for import |
+| `polycam_example.gltf` | The full example scene used in this guide |
+| `sample_scan.glb` | The example GLB scan used in this guide |
 
 ---
 
